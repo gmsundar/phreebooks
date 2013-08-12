@@ -1,4 +1,4 @@
-phreebooks
-==========
+PhreeBooks Open Source ERP
+==========================
 
-PhreeBooks Open Source ERP - GitHub information page
+See branch: Master for primary development tree
